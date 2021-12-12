@@ -6,7 +6,7 @@ namespace jello
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Jello Squirrels!");
         }
     }
 }
